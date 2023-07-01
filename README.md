@@ -2,7 +2,7 @@
 
 
 ### In the PyCity School Challenge the objective was to complete an analysis on the provided data sets and to provide a Summary of Findings
-#### The completed file with the code and written report can be found in the [PyCitySchools.ipynb]
+#### The completed file with the code and written report can be found in the [PyCitySchools.ipynb](https://github.com/Alex-WRK/Module_4-Challenge/blob/main/PyCitySchools.ipynb)
 
 
 #### All coding used in this project are from week 4 classes, and troubleshooting was done with the assistance of Chat-GPT
